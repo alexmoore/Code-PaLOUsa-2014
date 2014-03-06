@@ -12,4 +12,4 @@ Clone this repository and put your session materials, links or anything else in 
 ##Help, I don't know git:
 If you are not familiar with git, please submit your materials to: **Echarbeneau@codepalousa.com**
 
-
+**[Click here]**(https://github.com/CodePaLOUsa/Code-PaLOUsa-2014/archive/master.zip) to download all of the content.
